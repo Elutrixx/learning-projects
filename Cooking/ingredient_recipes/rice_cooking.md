@@ -1,3 +1,22 @@
+---
+type: recipe
+category: ingredient
+difficulty: beginner
+prep_time: 5m
+cook_time: 22m
+total_time: 27m
+yield: 2-3 servings
+hardware_required:
+  - stove: electric_glass_cooktop
+  - pot: stainless_with_tight_lid
+  - tools: [digital_scale_or_mug, fork]
+tags:
+  - basics
+  - grains
+  - cooking
+  - bot-friendly
+---
+
 # Recipe: The Idiot-Proof White Rice Method
 
 ## Equipment Needed
