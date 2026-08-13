@@ -29,7 +29,7 @@ tags:
 - **Protein:** 1 Chicken Breast (~150-200g), cubed into 1-inch pieces
 - **Vegetable:** 1 Bell Pepper (prepped using *Pan-Fried Bell Pepper Strips* method)
 - **Fat:** 1 tbsp cooking oil
-- **Sauce:** 3-4 tbsp store-bought sauce (e.g., Teriyaki, Sweet Chili, or Sesame Garlic)
+- **Sauce:** 6-8 tbsp store-bought sauce (e.g., Teriyaki, Sweet Chili, or Sesame Garlic)
 
 ## Step-by-Step Instructions
 
@@ -44,7 +44,7 @@ tags:
 2. **Pan-fry Pepper (5 mins):** Cook pepper strips according to the *Pan-Fried Bell Pepper Strips* method. Transfer them to a clean plate once slightly soft but still crisp.
 3. **Pan-fry Chicken (7 mins):** In the same hot pan, cook chicken cubes. Let them cook undisturbed for 3 minutes, then stir and cook for another 3-4 minutes.
     - *Sanity check:* Cut one piece of chicken in half. It should be solid white throughout.
-4. **Combine & Sauce (2 mins):** Turn heat down to **Dial 2** (low). Return the cooked peppers to the pan. Pour in 3-4 tbsp of your store-bought sauce. Stir everything together for 1-2 minutes until the sauce bubbles gently and coats everything.
+4. **Combine & Sauce (2 mins):** Turn heat down to **Dial 2** (low). Return the cooked peppers to the pan. Pour in 6-8 tbsp of your store-bought sauce. Stir everything together for 1-2 minutes until the sauce bubbles gently and coats everything.
 
 ### Step 4: Assemble & Serve (~2 mins)
 1. Spoon hot, fluffed rice into a bowl.
