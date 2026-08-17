@@ -28,6 +28,8 @@ tags:
 - **Base:** 1 serving of cooked white rice (using *The Idiot-Proof White Rice Method*)
 - **Protein:** 1 Chicken Breast (~150-200g), cubed into 1-inch pieces
 - **Vegetable:** 1 Bell Pepper (prepped using *Pan-Fried Bell Pepper Strips* method)
+- **Sweet Corn:** 3-4 tbsp canned sweet corn (drained)
+- **Garnish:** 1 Spring Onion, sliced thin (whites & greens)
 - **Fat:** 1 tbsp cooking oil
 - **Sauce:** 6-8 tbsp store-bought sauce (e.g., Teriyaki, Sweet Chili, or Sesame Garlic)
 
@@ -36,6 +38,7 @@ tags:
 ### Step 1: Knife Work & Prep (~10 mins)
 1. **Prep Pepper:** Wash, de-seed, and slice your bell pepper into 1/2-inch strips (refer to *Pan-Fried Bell Pepper Strips*).
 2. **Prep Chicken:** Cut chicken into uniform 1-inch cubes. Keep on a separate plate to avoid cross-contamination.
+3. **Prep Garnish:** Wash and slice your spring onion thinly. Keep in a small bowl for later.
 
 ### Step 2: Cook the Rice (~22 mins)
 - Start your white rice cooking cycle now (refer to *The Idiot-Proof White Rice Method*).
@@ -44,11 +47,12 @@ tags:
 2. **Pan-fry Pepper (5 mins):** Cook pepper strips according to the *Pan-Fried Bell Pepper Strips* method. Transfer them to a clean plate once slightly soft but still crisp.
 3. **Pan-fry Chicken (7 mins):** In the same hot pan, cook chicken cubes. Let them cook undisturbed for 3 minutes, then stir and cook for another 3-4 minutes.
     - *Sanity check:* Cut one piece of chicken in half. It should be solid white throughout.
-4. **Combine & Sauce (2 mins):** Turn heat down to **Dial 2** (low). Return the cooked peppers to the pan. Pour in 6-8 tbsp of your store-bought sauce. Stir everything together for 1-2 minutes until the sauce bubbles gently and coats everything.
+4. **Combine & Sauce (2 mins):** Turn heat down to **Dial 2** (low). Return the cooked peppers and add the drained sweet corn to the pan. Pour in 6-8 tbsp of your store-bought sauce. Stir everything together for 1-2 minutes until the sauce bubbles gently and coats everything.
 
 ### Step 4: Assemble & Serve (~2 mins)
 1. Spoon hot, fluffed rice into a bowl.
-2. Top with the warm, saucy chicken and bell peppers.
+2. Top with the warm, saucy chicken, bell peppers, and corn.
+3. Garnish by sprinkling the sliced spring onions on top.
 
 ## Technical Notes
 - **Why cook peppers first and remove them?** This prevents the peppers from getting mushy while the chicken cooks, keeping their texture pleasant and vibrant.

@@ -22,6 +22,10 @@ tags:
 * **Prep:** Sliced thin (whites & greens).
 * **Cook (Raw):** Garnish.
 
+### Sweet Corn (Canned)
+* **Prep:** Drain the canning liquid.
+* **Cook:** None required, just add to pan/sauce for 1–2 mins on low heat (Dial 2) to warm through.
+
 ### Bell Pepper
 * **Prep:** 1/2-inch strips.
 * **Cook (Pan-Fry):** Dial 4 with 1 tsp oil for 5 mins (soft but crisp).
